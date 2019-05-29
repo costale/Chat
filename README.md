@@ -1,3 +1,4 @@
 # Chat
 Projeto de um Chat utilizando linguagem Java.
-Projeto compacto .rar
+
+Projeto compacto e anexo Chat.rar
